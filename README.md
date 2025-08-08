@@ -11,11 +11,14 @@ The system scans the leaf for **pores, texture, and health** before processing t
 - ✅ **Potential for real-time deployment** via web or mobile apps  
 
 <img width="1770" height="811" alt="image" src="https://github.com/user-attachments/assets/5440ca4e-01d8-438e-b6d1-0ca232315365" />
+<br>
 <img width="745" height="851" alt="image" src="https://github.com/user-attachments/assets/9f66ac77-0e2c-4357-a442-98470aaa1a57" />
 
-### flow of the application
+
+### Flow of the application
 <img width="1139" height="859" alt="image" src="https://github.com/user-attachments/assets/02a89b96-3a57-473d-8af2-b1e2b11bf137" />
 
-### predictions
+
+### Predictions
 <img width="1338" height="656" alt="image" src="https://github.com/user-attachments/assets/4ced00e9-7440-473c-a37a-8069c59e2e31" />
 
