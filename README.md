@@ -9,3 +9,5 @@ The system scans the leaf for **pores, texture, and health** before processing t
 - ✅ **Preprocessing** (resizing, normalization, and augmentation)  
 - ✅ **Binary classification** (Late Blight & Early Blight)  
 - ✅ **Potential for real-time deployment** via web or mobile apps  
+
+<img width="1770" height="811" alt="image" src="https://github.com/user-attachments/assets/5440ca4e-01d8-438e-b6d1-0ca232315365" />
